@@ -1,0 +1,14 @@
+# EzBlog Configuration file
+
+#The blog title, which is used in the header and <title>
+title = "Example blog"
+
+#The stylesheet to use in the styles folder
+stylesheet = "lb.css"
+
+#Limit to show on first page
+showposts = 250
+
+#Display the date of the article
+showdate = true
+
