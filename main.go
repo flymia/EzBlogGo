@@ -1,12 +1,15 @@
 package main
 
 import (
-	"fmt"
+	"math/rand"
+	"time"
 )
 
+func generateID(min int, max int) int {
+	rand.Seed(time.Now().UnixNano())
+	return rand.Intn(max-min) + min
+}
+
 func main() {
-	p := BlogPost{id: 4124, title: "Testeintrag", author: "Marc", content: "whdawoudhawud"}
-
-	fmt.Println(p.GetID())
-
+	configmanager.Test()
 }
