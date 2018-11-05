@@ -8,6 +8,7 @@ import (
 	"time"
 )
 
+
 type BlogPost struct {
 	id      int
 	date    string

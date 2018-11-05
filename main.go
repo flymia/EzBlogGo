@@ -11,5 +11,5 @@ func generateID(min int, max int) int {
 }
 
 func main() {
-	configmanager.Test()
+
 }
