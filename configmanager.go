@@ -3,8 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/BurntSushi/toml"
-	"os"
-	"os/ioutil"
+	"io/ioutil"
 )
 
 type Config struct {
