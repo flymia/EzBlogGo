@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <article id="12412">
+        <title>Testeintrag</title>
+        <author>Marc</author>
+        <date>2018-11-05T18:03:00+02:00</date>
+        <content>12412.html</content>
+  </article>  
+  <article id="83671">
+      <title>Testeintrag 2</title>
+      <author>Peter</author>
+      <date>2018-10-05T18:03:00+02:00</date>
+      <content>83671.html</content>
+  </article>  
+</articles>

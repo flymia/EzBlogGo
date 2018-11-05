@@ -5,10 +5,8 @@ BlogTitle = "Example blog"
 
 SubTitle = "A very special test blog..."
 
-
 #Display the subtitle or not?
 ShowSubtitle = true
-
 
 #The stylesheet to use in the styles folder
 Stylesheet = "lb.css"
