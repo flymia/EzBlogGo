@@ -1,14 +1,37 @@
 # EzBlog Configuration file
 
 #The blog title, which is used in the header and <title>
-title = "Example blog"
+BlogTitle = "Example blog"
+
+SubTitle = "A very special test blog..."
+
+
+#Display the subtitle or not?
+ShowSubtitle = true
+
 
 #The stylesheet to use in the styles folder
-stylesheet = "lb.css"
+Stylesheet = "lb.css"
 
 #Limit to show on first page
-showposts = 250
+PostLimit = 250
 
 #Display the date of the article
-showdate = true
+ShowDate = true
 
+#Display the author of the article
+ShowAuthor = true
+
+#Display the search bar?
+ShowSearch = true
+
+#What text should be displayed as placeholder in the search box?
+SearchText = "Search..."
+
+#What text should be displayed on the search button?
+SearchButtonText= "Search"
+
+#Show the credits?
+ShowCredits = true
+
+ShowPermLinks = true
